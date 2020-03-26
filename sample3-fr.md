@@ -1,5 +1,5 @@
 c'est en français
 
-Language = @lab.Variable(language)
+Langue = @lab.Variable(language)
 
-Lab Profile Id = @lab.LabProfile.Id
+identifiant de profil de laboratoire = @lab.LabProfile.Id
