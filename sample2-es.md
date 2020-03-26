@@ -1,5 +1,5 @@
 Esta es la página 2 en español 
 
-Language = @lab.Variable(language)
+idioma = @lab.Variable(language)
 
-Lab Profile Id = @lab.LabProfile.Id
+ID de perfil de laboratorio = @lab.LabProfile.Id
