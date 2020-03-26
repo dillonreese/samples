@@ -1,4 +1,4 @@
-Dies ist Seite 3 auf Deutsch
+c'est en français
 
 Language = @lab.Variable(language)
 
